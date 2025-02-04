@@ -81,7 +81,7 @@ const data = {
         // },
         {
             title: "Github",
-            url: "https://github.com/prabhat-pushp",
+            url: "https://github.com/prabhatpushp",
             target: "_blank",
             icon: Github,
         },
