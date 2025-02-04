@@ -33,6 +33,8 @@ A modern, client-side tools platform offering a collection of useful utilities t
 -   **Shadcn/UI** - For beautiful and accessible UI components
 -   **Zustand** - For state management
 -   **Radix UI** - For headless UI components
+-   **Sentry** - For error tracking
+-   **Vercel** - For hosting and deployment
 
 ## Project Structure
 
